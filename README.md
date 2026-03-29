@@ -1,28 +1,42 @@
-<h1 align="center">Welcome, I'm Moaaz Besher</h1>
-<h3 align="center">Software Developer | Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Moaaz Besher</h1>
+<h3 align="center">Software Developer | Software Engineer | Problem Solver</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=moaazbesher&label=Profile%20views&color=0e75b6&style=flat" alt="moaazbesher" />
-</p>
-
-- All of my projects are available at [Portfolio](https://moaaz-ashraf.netlify.app/)
-
-- Connect with me **moaaz.contact@gmail.com**
-
-- Know more about me [My Resume](https://moaaz-ashraf.netlify.app/resources/moaaz%20besher-Software.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/moaaz-besher" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moaaz-besher" height="30" width="40" />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=moaazbesher&label=Profile%20Views&color=0e75b6&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=moaazbesher&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coding" width="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding" width="450" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## 👨‍💻 About Me
+
+- 💻 Passionate about **Software Development** and building practical solutions
+- 🌱 Currently improving my skills in **Software Testing, Automation, and Modern Development Tools**
+- 🔥 Interested in **Flutter, Firebase, Web Development, and Software Engineering**
+- 🎯 Focused on creating projects that are both **useful and cleanly designed**
+- 🌐 Portfolio: [m oaaz-ashraf.netlify.app](https://moaaz-ashraf.netlify.app/)
+- 📄 Resume: [View My CV](https://moaaz-ashraf.netlify.app/resources/moaaz%20besher-Software.pdf)
+- 📫 Reach me at: **moaaz.contact@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/moaaz-besher" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
 <p align="left">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
@@ -71,14 +85,31 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moaazbesher&show_icons=true&locale=en&layout=compact" alt="moaazbesher" />
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moaazbesher&show_icons=true&theme=tokyonight&hide_border=true" alt="Moaaz GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moaazbesher&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=moaazbesher&show_icons=true&locale=en" alt="moaazbesher" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moaazbesher&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moaazbesher" alt="moaazbesher" />
+---
+
+## 🚀 Portfolio & Resume
+
+<p align="center">
+  <a href="https://moaaz-ashraf.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://moaaz-ashraf.netlify.app/resources/moaaz%20besher-Software.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View%20CV-1E1E1E?style=for-the-badge&logo=adobeacrobatreader&logoColor=red" alt="Resume" />
+  </a>
+  <a href="mailto:moaaz.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>

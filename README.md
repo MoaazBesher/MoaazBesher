@@ -20,7 +20,7 @@
 - 🔥 Interested in **Flutter, Firebase, Web Development, and Software Engineering**
 - 🎯 Focused on creating projects that are both **useful and cleanly designed**
 - 🌐 Portfolio: [m oaaz-ashraf.netlify.app](https://moaaz-ashraf.netlify.app/)
-- 📄 Resume: [View My CV](https://moaaz-ashraf.netlify.app/resources/moaaz%20besher-Software.pdf)
+- 📄 Resume: [View My CV]([https://moaaz-ashraf.netlify.app/resources/moaaz%20besher-Software.pdf](https://firebasestorage.googleapis.com/v0/b/moaaz-portofolio.firebasestorage.app/o/profile%2Fresume.pdf?alt=media&token=e6edb0d3-a69c-461a-9b98-be1363b86905))
 - 📫 Reach me at: **moaaz.contact@gmail.com**
 
 ---

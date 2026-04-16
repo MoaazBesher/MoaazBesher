@@ -1,116 +1,55 @@
-@@ -1,115 +1,110 @@
-<h1 align="center">Hi 👋, I'm Moaaz Besher</h1>
-<h3 align="center">Software Developer | Software Engineer | Problem Solver</h3>
+# Hi there, I'm Moaaz Besher 👋
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=moaazbesher&label=Profile%20Views&color=0e75b6&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=moaazbesher&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Software+Engineer;Flutter+Developer;Automation+Specialist;Problem+Solver" alt="Typing SVG" />
+</div>
 
+### 🎯 About Me
+Junior Software Engineer with a focus on building scalable web and mobile applications. Expertise in **Java**, **Flutter**, and **Firebase**, combined with a deep background in **Software Testing (Manual & Automation)**. Passionate about engineering high-quality solutions and continuous learning.
+
+---
+
+### 🚀 Experience & Training
+- **Mobile Application Development Training** | *Information Technology Institute (ITI)* (2025)
+- **Software Testing Intern** | *Ministry of Communications (DEPI)* (2024 - 2025)
+
+### 🎓 Education
+- **Bachelor's in Computers and Informatics** | *Zagazig University* (Expected 2027)
+- **Professional Software Testing Diploma** | *Ministry of Communications* (2025)
+
+---
+
+### 💻 Tech Stack
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **Mobile & Web** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Testing** | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-FF7F00?style=flat-square&logo=testng&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+
+---
+
+### 🛠️ Featured Projects
+- **[E-Commerce Testing Framework](https://github.com/MoaazBesher/Depi-e-commerce-testing)**: Java-based Selenium framework with POM and TestNG.
+- **[Sadaqa Mobile App](https://github.com/MoaazBesher/sadaqa_app)**: Flutter app integrated with Firebase for dynamic updates.
+- **[Personal Portfolio](https://moaaz-ashraf.netlify.app/)**: Real-time managed portfolio via a custom admin app.
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MoaazBesher&show_icons=true&theme=nord&count_private=true" alt="Moaaz's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoaazBesher&layout=compact&theme=nord&hide=html,css" alt="Top Languages" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 💻 Passionate about **Software Development** and building practical solutions
-- 🌱 Currently improving my skills in **Software Testing, Automation, and Modern Development Tools**
-- 🔥 Interested in **Flutter, Firebase, Web Development, and Software Engineering**
-- 🎯 Focused on creating projects that are both **useful and cleanly designed**
-- 🌐 Portfolio: [m oaaz-ashraf.netlify.app](https://moaaz-ashraf.netlify.app/)
-- 📄 Resume: [View My CV](https://moaaz-ashraf.netlify.app/resources/moaaz%20besher-Software.pdf)
-- 📫 Reach me at: **moaaz.contact@gmail.com**
+### 📫 Connect with Me
+- **LinkedIn**: [linkedin.com/in/moaaz-besher](https://www.linkedin.com/in/moaaz-besher/)
+- **Email**: [moaaz.contact@gmail.com](mailto:moaaz.contact@gmail.com)
+- **Portfolio**: [moaaz-ashraf.netlify.app](https://moaaz-ashraf.netlify.app/)
 
 ---
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/moaaz-besher" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
----
-
-## 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moaazbesher&show_icons=true&theme=tokyonight&hide_border=true" alt="Moaaz GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moaazbesher&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moaazbesher&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🚀 Portfolio & Resume
-
-<p align="center">
-  <a href="https://moaaz-ashraf.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://moaaz-ashraf.netlify.app/resources/moaaz%20besher-Software.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View%20CV-1E1E1E?style=for-the-badge&logo=adobeacrobatreader&logoColor=red" alt="Resume" />
-  </a>
-  <a href="mailto:moaaz.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MoaazBesher&color=blue&style=flat-square" alt="Profile Views" />
+</div>

@@ -27,7 +27,6 @@
 
 ## About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoaazBesher&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&width=380&langs_count=8" alt="Top Languages" />
 
 Software Engineer with expertise in **Flutter development**, **QA Automation**, and **backend systems**. I build scalable cross-platform applications and robust testing frameworks that ensure quality at scale.
 
@@ -134,8 +133,4 @@ Software Engineer with expertise in **Flutter development**, **QA Automation**, 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0B1120&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=F8FAFC&animation=fadeIn" alt="Footer" />
-</div>
-
-<div align="center">
-  <i>✨ Let's build something amazing together ✨</i>
 </div>

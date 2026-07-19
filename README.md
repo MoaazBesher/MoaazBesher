@@ -3,11 +3,11 @@
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0B1120&height=300&section=header&text=Moaaz%20Besher&fontSize=65&animation=fadeIn&fontAlignY=30&desc=Software%20Engineer%20%7C%20Mobile%20%26%20Automation&descAlignY=55&descSize=16&fontColor=F8FAFC&descColor=94A3B8&stroke=3B82F6&strokeWidth=2" alt="Moaaz Besher Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0B1120&height=300&section=header&text=Moaaz%20Besher&fontSize=65&animation=fadeIn&fontAlignY=30&desc=Software%20Developer%20%7C%20Full-Stack%20%26%20Mobile&descAlignY=55&descSize=16&fontColor=F8FAFC&descColor=94A3B8&stroke=3B82F6&strokeWidth=2" alt="Moaaz Besher Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Cross-Platform+Mobile+Applications;Architecting+Scalable+Test+Automation;Crafting+Elegant+Software+Solutions;Engineering+Quality+at+Scale" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;Developing+Cross-Platform+Mobile+Apps;Architecting+Desktop+Applications;Engineering+Quality+Software+Solutions" alt="Typing Animation" />
 </p>
 
 <br />
@@ -19,7 +19,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/moaaz-besher/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=3B82F6" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="mailto:moaaz.contact@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=3B82F6" alt="Email" /></a>&nbsp;&nbsp;
-  <a href="https://moaaz-ashraf.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=3B82F6" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://moaazbesher.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=3B82F6" alt="Portfolio" /></a>&nbsp;&nbsp;
   <a href="https://github.com/MoaazBesher"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=3B82F6" alt="GitHub" /></a>
 </div>
 
@@ -43,29 +43,29 @@
   <tr>
     <td width="60%" bgcolor="#111827" style="border: 1px solid #1E293B; padding: 24px; vertical-align: top;">
       <span style="color: #CBD5E1; line-height: 1.8;">
-        Software Engineer specializing in cross-platform mobile development and QA automation. I build scalable applications with Flutter and design robust testing frameworks that ensure quality throughout the development lifecycle. My approach combines clean architecture principles with comprehensive test coverage.
+        Computer and Informatics student at Zagazig University with practical experience in software testing, web development, and mobile application development. Skilled in Java, Selenium, Flutter, Firebase, and modern web technologies. I build real-world projects spanning management systems, mobile applications, automation testing frameworks, and desktop tools with a strong focus on software quality, problem-solving, and continuous professional growth.
       </span>
       <br /><br />
       <span style="color: #F8FAFC; font-weight: 600;">Current Focus</span>
       <br />
       <span style="color: #94A3B8; line-height: 2;">
-        &bull; Building Sadaqa - a cross-platform charity application<br />
-        &bull; Developing an enterprise e-commerce testing framework<br />
-        &bull; Exploring advanced Flutter architecture patterns
+        &bull; Building full-stack web applications with Next.js and TypeScript<br />
+        &bull; Developing cross-platform mobile apps with Flutter<br />
+        &bull; Crafting desktop applications with C# and .NET
       </span>
     </td>
     <td width="40%" bgcolor="#111827" style="border: 1px solid #1E293B; padding: 24px; vertical-align: top;">
       <span style="color: #60A5FA; font-weight: 600; letter-spacing: 1px;">TECHNOLOGIES</span>
       <br />
-      <span style="color: #94A3B8; line-height: 1.8;">Flutter &middot; Dart &middot; Java &middot; Python &middot; Selenium &middot; Firebase</span>
+      <span style="color: #94A3B8; line-height: 1.8;">Flutter &middot; Dart &middot; Java &middot; Python &middot; JavaScript &middot; TypeScript &middot; C++ &middot; SQL &middot; Firebase &middot; Selenium &middot; Next.js &middot; React</span>
       <br /><br />
       <span style="color: #60A5FA; font-weight: 600; letter-spacing: 1px;">INTERESTS</span>
       <br />
-      <span style="color: #94A3B8; line-height: 1.8;">Mobile Architecture &middot; Test Automation &middot; Developer Tools</span>
+      <span style="color: #94A3B8; line-height: 1.8;">Full-Stack Development &middot; Mobile Architecture &middot; Desktop Applications &middot; Test Automation</span>
       <br /><br />
       <span style="color: #60A5FA; font-weight: 600; letter-spacing: 1px;">COLLABORATION</span>
       <br />
-      <span style="color: #94A3B8; line-height: 1.8;">Open to contributing to meaningful open-source projects</span>
+      <span style="color: #94A3B8; line-height: 1.8;">Open to contributing to open-source projects and collaborating on innovative ideas</span>
     </td>
   </tr>
 </table>
@@ -89,26 +89,26 @@
 <table>
   <tr>
     <td width="50%" align="center" bgcolor="#111827" style="border: 1px solid #1E293B; padding: 24px;">
-      <span style="color: #60A5FA; font-weight: 600;">Languages</span>
+      <span style="color: #60A5FA; font-weight: 600;">Languages & Core</span>
       <br /><br />
-      <img src="https://skillicons.dev/icons?i=java,python,dart,cpp,js&theme=dark" alt="Languages" />
+      <img src="https://skillicons.dev/icons?i=java,python,dart,cpp,js,sql&theme=dark" alt="Languages" />
     </td>
     <td width="50%" align="center" bgcolor="#111827" style="border: 1px solid #1E293B; padding: 24px;">
-      <span style="color: #60A5FA; font-weight: 600;">Mobile Development</span>
+      <span style="color: #60A5FA; font-weight: 600;">Frontend & Web</span>
       <br /><br />
-      <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" alt="Mobile" />
+      <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,redux&theme=dark" alt="Frontend" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" bgcolor="#111827" style="border: 1px solid #1E293B; padding: 24px;">
-      <span style="color: #60A5FA; font-weight: 600;">QA & Automation</span>
+      <span style="color: #60A5FA; font-weight: 600;">Mobile & Backend</span>
       <br /><br />
-      <img src="https://skillicons.dev/icons?i=selenium,postman,maven&theme=dark" alt="QA" />
+      <img src="https://skillicons.dev/icons?i=flutter,firebase,nodejs,express,sqlite&theme=dark" alt="Mobile & Backend" />
     </td>
     <td width="50%" align="center" bgcolor="#111827" style="border: 1px solid #1E293B; padding: 24px;">
-      <span style="color: #60A5FA; font-weight: 600;">Tools & Version Control</span>
+      <span style="color: #60A5FA; font-weight: 600;">Tools & QA</span>
       <br /><br />
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark" alt="Tools" />
+      <img src="https://skillicons.dev/icons?i=git,selenium,electron,vscode,postman&theme=dark" alt="Tools" />
     </td>
   </tr>
 </table>
@@ -132,61 +132,80 @@
 <table>
   <tr>
     <td width="50%" bgcolor="#111827" style="border: 1px solid #1E293B; padding: 24px; vertical-align: top;">
-      <span style="color: #F8FAFC; font-weight: 600; font-size: 17px;">E-Commerce Testing Framework</span>
+      <span style="color: #F8FAFC; font-weight: 600; font-size: 17px;">Windows XP Web Simulation</span>
       <br />
-      <span style="color: #94A3B8; font-size: 13px;">Enterprise automation framework with Page Object Model architecture</span>
+      <span style="color: #94A3B8; font-size: 13px;">Nostalgic recreation of Windows XP in the browser with interactive desktop, draggable windows, Start Menu, and taskbar</span>
       <br /><br />
-      <img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=java&logoColor=3B82F6" />&nbsp;
-      <img src="https://img.shields.io/badge/Selenium-0F172A?style=flat-square&logo=selenium&logoColor=3B82F6" />&nbsp;
-      <img src="https://img.shields.io/badge/TestNG-0F172A?style=flat-square&logo=java&logoColor=3B82F6" />&nbsp;
-      <img src="https://img.shields.io/badge/Maven-0F172A?style=flat-square&logo=apache-maven&logoColor=3B82F6" />
+      <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=3B82F6" />&nbsp;
+      <img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=3B82F6" />&nbsp;
+      <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3B82F6" />&nbsp;
+      <img src="https://img.shields.io/badge/Redux-0F172A?style=flat-square&logo=redux&logoColor=3B82F6" />
       <br /><br />
       <span style="color: #94A3B8; font-size: 13px;">
-        &bull; Page Object Model design pattern<br />
-        &bull; Cross-browser testing capability<br />
-        &bull; Data-driven test execution<br />
-        &bull; CI/CD pipeline integration
+        &bull; Pixel-perfect XP desktop interface<br />
+        &bull; Draggable windows and taskbar system<br />
+        &bull; RTL-ready internationalization<br />
+        &bull; Built with Next.js and TypeScript
       </span>
       <br /><br />
-      <a href="https://github.com/MoaazBesher/Depi-e-commerce-testing"><img src="https://img.shields.io/badge/View_Repository-0F172A?style=for-the-badge&logo=github&logoColor=3B82F6" alt="Repository" /></a>
+      <a href="https://moaazbesherxp.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=google-chrome&logoColor=3B82F6" alt="Live Demo" /></a>
     </td>
     <td width="50%" bgcolor="#111827" style="border: 1px solid #1E293B; padding: 24px; vertical-align: top;">
-      <span style="color: #F8FAFC; font-weight: 600; font-size: 17px;">Sadaqa Mobile Application</span>
+      <span style="color: #F8FAFC; font-weight: 600; font-size: 17px;">Universal Live Server</span>
       <br />
-      <span style="color: #94A3B8; font-size: 13px;">Cross-platform charity app with real-time Firebase backend</span>
+      <span style="color: #94A3B8; font-size: 13px;">Auto-detecting development server for web projects with zero configuration, supporting 25+ frameworks</span>
       <br /><br />
-      <img src="https://img.shields.io/badge/Flutter-0F172A?style=flat-square&logo=flutter&logoColor=3B82F6" />&nbsp;
-      <img src="https://img.shields.io/badge/Dart-0F172A?style=flat-square&logo=dart&logoColor=3B82F6" />&nbsp;
-      <img src="https://img.shields.io/badge/Firebase-0F172A?style=flat-square&logo=firebase&logoColor=3B82F6" />
+      <img src="https://img.shields.io/badge/C%23-0F172A?style=flat-square&logo=csharp&logoColor=3B82F6" />&nbsp;
+      <img src="https://img.shields.io/badge/.NET-0F172A?style=flat-square&logo=dotnet&logoColor=3B82F6" />&nbsp;
+      <img src="https://img.shields.io/badge/SQLite-0F172A?style=flat-square&logo=sqlite&logoColor=3B82F6" />
       <br /><br />
       <span style="color: #94A3B8; font-size: 13px;">
-        &bull; User authentication system<br />
-        &bull; Donations tracking dashboard<br />
-        &bull; Admin panel with analytics<br />
-        &bull; Real-time data synchronization
+        &bull; Zero-configuration project detection<br />
+        &bull; Dark mode themed interface<br />
+        &bull; Integrated npm script runner<br />
+        &bull; Windows context menu integration
       </span>
       <br /><br />
-      <a href="https://github.com/MoaazBesher/sadaqa_app"><img src="https://img.shields.io/badge/View_Repository-0F172A?style=for-the-badge&logo=github&logoColor=3B82F6" alt="Repository" /></a>
+      <a href="https://github.com/MoaazBesher/liveserver"><img src="https://img.shields.io/badge/View_Repository-0F172A?style=for-the-badge&logo=github&logoColor=3B82F6" alt="Repository" /></a>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" bgcolor="#111827" style="border: 1px solid #1E293B; padding: 24px;">
-      <span style="color: #F8FAFC; font-weight: 600; font-size: 17px;">Personal Portfolio</span>
+    <td width="50%" bgcolor="#111827" style="border: 1px solid #1E293B; padding: 24px; vertical-align: top;">
+      <span style="color: #F8FAFC; font-weight: 600; font-size: 17px;">Expenses Tracker</span>
       <br />
-      <span style="color: #94A3B8; font-size: 13px;">Modern developer portfolio with CMS-powered content management</span>
+      <span style="color: #94A3B8; font-size: 13px;">Personal finance mobile app for managing income, expenses, and debts with offline-first architecture</span>
       <br /><br />
-      <img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=3B82F6" />&nbsp;
+      <img src="https://img.shields.io/badge/Flutter-0F172A?style=flat-square&logo=flutter&logoColor=3B82F6" />&nbsp;
       <img src="https://img.shields.io/badge/Firebase-0F172A?style=flat-square&logo=firebase&logoColor=3B82F6" />&nbsp;
-      <img src="https://img.shields.io/badge/Netlify-0F172A?style=flat-square&logo=netlify&logoColor=3B82F6" />
+      <img src="https://img.shields.io/badge/SQLite-0F172A?style=flat-square&logo=sqlite&logoColor=3B82F6" />
       <br /><br />
       <span style="color: #94A3B8; font-size: 13px;">
-        &bull; CMS integration for real-time content updates<br />
-        &bull; Responsive design across all devices<br />
-        &bull; Secure admin control panel
+        &bull; Offline-first with automatic cloud sync<br />
+        &bull; Monthly financial reports with PDF export<br />
+        &bull; Google Sign-In authentication<br />
+        &bull; Full Arabic/English RTL support
       </span>
       <br /><br />
-      <a href="https://moaaz-ashraf.netlify.app/"><img src="https://img.shields.io/badge/Visit_Live-0F172A?style=for-the-badge&logo=google-chrome&logoColor=3B82F6" alt="Live Demo" /></a>&nbsp;&nbsp;
-      <a href="https://github.com/MoaazBesher"><img src="https://img.shields.io/badge/Repository-0F172A?style=for-the-badge&logo=github&logoColor=3B82F6" alt="Repository" /></a>
+      <a href="https://github.com/MoaazBesher/expensesTracker"><img src="https://img.shields.io/badge/View_Repository-0F172A?style=for-the-badge&logo=github&logoColor=3B82F6" alt="Repository" /></a>
+    </td>
+    <td width="50%" bgcolor="#111827" style="border: 1px solid #1E293B; padding: 24px; vertical-align: top;">
+      <span style="color: #F8FAFC; font-weight: 600; font-size: 17px;">Gym Management System</span>
+      <br />
+      <span style="color: #94A3B8; font-size: 13px;">Production-grade offline gym management system with member operations, subscriptions, and analytics</span>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=3B82F6" />&nbsp;
+      <img src="https://img.shields.io/badge/Express-0F172A?style=flat-square&logo=express&logoColor=3B82F6" />&nbsp;
+      <img src="https://img.shields.io/badge/SQLite-0F172A?style=flat-square&logo=sqlite&logoColor=3B82F6" />&nbsp;
+      <img src="https://img.shields.io/badge/Electron-0F172A?style=flat-square&logo=electron&logoColor=3B82F6" />
+      <br /><br />
+      <span style="color: #94A3B8; font-size: 13px;">
+        &bull; Arabic RTL user experience<br />
+        &bull; Intelligent search functionality<br />
+        &bull; Data export and import capabilities<br />
+        &bull; Optional Electron desktop version
+      </span>
+      <br /><br />
+      <a href="https://demogymsystem.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=google-chrome&logoColor=3B82F6" alt="Live Demo" /></a>
     </td>
   </tr>
 </table>
@@ -239,16 +258,56 @@
 <hr style="height: 1px; background: #1E293B; border: none; margin: 40px 0;" />
 
 <!-- ============================================================ -->
-<!-- ACHIEVEMENTS                                                  -->
+<!-- ACHIEVEMENTS & CERTIFICATIONS                                 -->
 <!-- ============================================================ -->
 
-<h2 align="center" style="color: #F8FAFC;">Achievements</h2>
+<h2 align="center" style="color: #F8FAFC;">Achievements & Certifications</h2>
 
 <br />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MoaazBesher&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4" alt="GitHub Achievements" width="98%" />
-</p>
+<table>
+  <tr>
+    <td width="50%" bgcolor="#111827" style="border: 1px solid #1E293B; padding: 20px;">
+      <span style="color: #60A5FA; font-weight: 600;">DEPI Software Testing</span>
+      <br />
+      <span style="color: #94A3B8; font-size: 13px;">Completed with Excellence</span>
+      <br />
+      <span style="color: #64748B; font-size: 12px;">February 2025</span>
+    </td>
+    <td width="50%" bgcolor="#111827" style="border: 1px solid #1E293B; padding: 20px;">
+      <span style="color: #60A5FA; font-weight: 600;">ITI Mobile Development</span>
+      <br />
+      <span style="color: #94A3B8; font-size: 13px;">Mobile Application Development Training</span>
+      <br />
+      <span style="color: #64748B; font-size: 12px;">March - May 2025</span>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" bgcolor="#111827" style="border: 1px solid #1E293B; padding: 20px;">
+      <span style="color: #60A5FA; font-weight: 600;">Professional Software Testing Diploma</span>
+      <br />
+      <span style="color: #94A3B8; font-size: 13px;">Ministry of Communications</span>
+      <br />
+      <span style="color: #64748B; font-size: 12px;">July 2025</span>
+    </td>
+    <td width="50%" bgcolor="#111827" style="border: 1px solid #1E293B; padding: 20px;">
+      <span style="color: #60A5FA; font-weight: 600;">Business English Certificate</span>
+      <br />
+      <span style="color: #94A3B8; font-size: 13px;">Berlitz Egypt - Ministry of Communications</span>
+      <br />
+      <span style="color: #64748B; font-size: 12px;">August 2025</span>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" bgcolor="#111827" style="border: 1px solid #1E293B; padding: 20px;">
+      <span style="color: #60A5FA; font-weight: 600;">HTML & SQL Certification</span>
+      <br />
+      <span style="color: #94A3B8; font-size: 13px;">IT Legend Courses</span>
+      <br />
+      <span style="color: #64748B; font-size: 12px;">November 2024</span>
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -269,32 +328,32 @@
 <table>
   <tr>
     <td width="22%" style="border-left: 2px solid #3B82F6; padding-left: 16px; vertical-align: top;">
-      <span style="color: #60A5FA; font-weight: 600;">2024 - Present</span>
+      <span style="color: #60A5FA; font-weight: 600;">2026 - Present</span>
     </td>
     <td style="padding-left: 20px; padding-bottom: 28px;">
-      <span style="color: #F8FAFC; font-weight: 600; font-size: 15px;">Software Engineer</span>
+      <span style="color: #F8FAFC; font-weight: 600; font-size: 15px;">Software Developer</span>
       <br />
-      <span style="color: #94A3B8; line-height: 1.7;">Building cross-platform mobile applications with Flutter and architecting enterprise-grade QA automation frameworks.</span>
+      <span style="color: #94A3B8; line-height: 1.7;">Building full-stack web applications with Next.js and TypeScript, developing cross-platform mobile apps with Flutter, and crafting desktop tools with C# and .NET.</span>
     </td>
   </tr>
   <tr>
     <td width="22%" style="border-left: 2px solid #3B82F6; padding-left: 16px; vertical-align: top;">
-      <span style="color: #60A5FA; font-weight: 600;">2023 - 2024</span>
+      <span style="color: #60A5FA; font-weight: 600;">Aug - Sep 2025</span>
     </td>
     <td style="padding-left: 20px; padding-bottom: 28px;">
-      <span style="color: #F8FAFC; font-weight: 600; font-size: 15px;">QA Automation Engineer</span>
+      <span style="color: #F8FAFC; font-weight: 600; font-size: 15px;">Mobile Application Development Trainee</span>
       <br />
-      <span style="color: #94A3B8; line-height: 1.7;">Developed test automation frameworks using Selenium, TestNG, and Maven. Implemented Page Object Model patterns and CI/CD integration.</span>
+      <span style="color: #94A3B8; line-height: 1.7;">Completed intensive training at the Information Technology Institute (ITI), building cross-platform applications with Flutter, Firebase, and modern web technologies.</span>
     </td>
   </tr>
   <tr>
     <td width="22%" style="border-left: 2px solid #3B82F6; padding-left: 16px; vertical-align: top;">
-      <span style="color: #60A5FA; font-weight: 600;">2022 - 2023</span>
+      <span style="color: #60A5FA; font-weight: 600;">2024 - 2025</span>
     </td>
     <td style="padding-left: 20px; padding-bottom: 28px;">
-      <span style="color: #F8FAFC; font-weight: 600; font-size: 15px;">Flutter Developer</span>
+      <span style="color: #F8FAFC; font-weight: 600; font-size: 15px;">Software Testing Intern</span>
       <br />
-      <span style="color: #94A3B8; line-height: 1.7;">Built cross-platform mobile applications with Flutter and Dart. Integrated Firebase services including authentication and real-time databases.</span>
+      <span style="color: #94A3B8; line-height: 1.7;">Gained hands-on experience in software testing methodologies at the Ministry of Communications. Contributed to test automation projects using Selenium and collaborated with development teams to ensure software quality.</span>
     </td>
   </tr>
   <tr>
@@ -302,9 +361,15 @@
       <span style="color: #60A5FA; font-weight: 600;">Education</span>
     </td>
     <td style="padding-left: 20px;">
-      <span style="color: #F8FAFC; font-weight: 600; font-size: 15px;">Computer Science</span>
+      <span style="color: #F8FAFC; font-weight: 600; font-size: 15px;">B.Sc. in Computers and Informatics</span>
       <br />
-      <span style="color: #94A3B8; line-height: 1.7;">Strong foundation in software engineering principles, data structures, algorithms, and system design.</span>
+      <span style="color: #94A3B8; line-height: 1.7;">Zagazig University &middot; Expected 2027</span>
+      <br />
+      <span style="color: #94A3B8; line-height: 1.7;">Computer Architecture, Data Structures, Database Systems, Software Engineering Principles</span>
+      <br /><br />
+      <span style="color: #F8FAFC; font-weight: 600; font-size: 15px;">Professional Software Testing Diploma</span>
+      <br />
+      <span style="color: #94A3B8; line-height: 1.7;">Ministry of Communications &middot; 2025</span>
     </td>
   </tr>
 </table>
@@ -328,7 +393,7 @@
 <div align="center">
   <a href="mailto:moaaz.contact@gmail.com"><img src="https://img.shields.io/badge/Email_Me-0F172A?style=for-the-badge&logo=gmail&logoColor=3B82F6" alt="Email" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/moaaz-besher/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=3B82F6" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://moaaz-ashraf.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=3B82F6" alt="Portfolio" /></a>
+  <a href="https://moaazbesher.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=3B82F6" alt="Portfolio" /></a>
 </div>
 
 <br /><br />

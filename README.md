@@ -1,11 +1,6 @@
-<!-- HEADER ANIMATED BANNER -->
+<!-- TYPING ANIMATION HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0B1120&height=280&section=header&text=Moaaz%20Besher&fontSize=65&animation=fadeIn&fontAlignY=30&desc=Software%20Developer%20%7C%20Full-Stack%20%26%20Mobile&descAlignY=55&descSize=16&fontColor=F8FAFC&descColor=94A3B8&stroke=3B82F6&strokeWidth=2" alt="banner" />
-</p>
-
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;Developing+Cross-Platform+Mobile+Apps;Architecting+Desktop+Applications;Engineering+Quality+Software+Solutions" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Moaaz+Besher+%E2%80%A2+Software+Developer;Building+Modern+Web+Applications;Developing+Cross-Platform+Mobile+Apps;Architecting+Desktop+Applications;Engineering+Quality+Software+Solutions" alt="typing" />
 </p>
 
 <br/>
@@ -24,13 +19,13 @@
 
 ## About Me
 
-Computer and Informatics student at **Zagazig University** with practical experience in software testing, web development, and mobile application development. Skilled in Java, Selenium, Flutter, Firebase, and modern web technologies. I build real-world projects spanning management systems, mobile applications, automation testing frameworks, and desktop tools.
+Computer and Informatics student at **Zagazig University** with practical experience in software testing, web development, and mobile app development. I build real-world projects spanning management systems, mobile applications, automation testing frameworks, and desktop tools.
 
 | Current Focus | Tech Stack | Interests |
 |:---|---:|:---|
 | Full-stack web with Next.js + TypeScript | Flutter &middot; Dart &middot; Java &middot; Python &middot; TypeScript &middot; C++ &middot; SQL &middot; Firebase | Full-Stack Development |
 | Cross-platform mobile with Flutter | Next.js &middot; React &middot; Node.js &middot; Express &middot; Selenium &middot; Electron | Mobile Architecture |
-| Desktop apps with C# and .NET | Git &middot; Redux &middot; SQLite &middot; Postman &middot; VSCode | Desktop Applications &middot; QA |
+| Desktop apps with C# and .NET | Git &middot; Redux &middot; SQLite &middot; Postman &middot; VSCode | Desktop &middot; QA |
 
 <br/>
 
@@ -66,20 +61,20 @@ Computer and Informatics student at **Zagazig University** with practical experi
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-Pixel-perfect XP desktop &bull; Draggable windows and taskbar &bull; RTL-ready &bull; Built with Next.js + TypeScript
+Pixel-perfect XP desktop &bull; Draggable windows/taskbar &bull; RTL-ready &bull; Next.js + TypeScript
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://moaazbesherxp.vercel.app/)
 
 ---
 
 ### Universal Live Server
-*Auto-detecting development server for web projects with zero configuration, supporting 25+ frameworks*
+*Auto-detecting dev server for web projects with zero configuration, supporting 25+ frameworks*
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-Zero-config project detection &bull; Dark mode UI &bull; npm script runner &bull; Windows context menu integration
+Zero-config detection &bull; Dark mode UI &bull; npm runner &bull; Windows context menu
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MoaazBesher/liveserver)
 
@@ -92,7 +87,7 @@ Zero-config project detection &bull; Dark mode UI &bull; npm script runner &bull
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-Offline-first with auto cloud sync &bull; Monthly reports with PDF export &bull; Google Sign-In &bull; Arabic/English RTL
+Offline-first cloud sync &bull; PDF reports &bull; Google Sign-In &bull; Arabic/English RTL
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MoaazBesher/expensesTracker)
 
@@ -106,7 +101,7 @@ Offline-first with auto cloud sync &bull; Monthly reports with PDF export &bull;
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
-Arabic RTL experience &bull; Intelligent search &bull; Data export/import &bull; Electron desktop version
+Arabic RTL &bull; Smart search &bull; Data export/import &bull; Electron desktop version
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://demogymsystem.vercel.app/)
 
@@ -143,10 +138,10 @@ Arabic RTL experience &bull; Intelligent search &bull; Data export/import &bull;
 
 <p align="center">
   <img src="https://img.shields.io/badge/DEPI_Software_Testing-22C55E?style=flat-square&logo=google-cloud&logoColor=white"/>&ensp;
-  <img src="https://img.shields.io/badge/ITI_Mobile_Development-6366F1?style=flat-square&logo=flutter&logoColor=white"/>&ensp;
-  <img src="https://img.shields.io/badge/Software_Testing_Diploma-0EA5E9?style=flat-square&logo=java&logoColor=white"/>&ensp;
-  <img src="https://img.shields.io/badge/Business_English-Berlitz-F59E0B?style=flat-square&logo=google-translate&logoColor=white"/>&ensp;
-  <img src="https://img.shields.io/badge/HTML_%26_SQL_Certified-EF4444?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ITI_Mobile_Dev-6366F1?style=flat-square&logo=flutter&logoColor=white"/>&ensp;
+  <img src="https://img.shields.io/badge/Testing_Diploma-0EA5E9?style=flat-square&logo=java&logoColor=white"/>&ensp;
+  <img src="https://img.shields.io/badge/Business_English-F59E0B?style=flat-square&logo=google-translate&logoColor=white"/>&ensp;
+  <img src="https://img.shields.io/badge/HTML_%26_SQL-EF4444?style=flat-square&logo=html5&logoColor=white"/>
 </p>
 
 <br/>
@@ -157,30 +152,25 @@ Arabic RTL experience &bull; Intelligent search &bull; Data export/import &bull;
 
 | Period | Role | Details |
 |:---:|:---|:---|
-| **2026 - Present** | **Software Developer** | Full-stack web with Next.js + TypeScript, cross-platform mobile with Flutter, desktop tools with C# and .NET |
-| **Aug - Sep 2025** | **Mobile Dev Trainee** | ITI - Built cross-platform applications with Flutter, Firebase, and modern web technologies |
-| **2024 - 2025** | **Software Testing Intern** | Ministry of Communications - Test automation with Selenium, QA methodologies |
-| **Education** | **B.Sc. Computers & Informatics** | Zagazig University (Expected 2027) - Computer Architecture, Data Structures, DB Systems |
-| | **Software Testing Diploma** | Ministry of Communications (2025) - Manual & Automation Testing, Selenium |
+| **2026 - Present** | **Software Developer** | Full-stack web, cross-platform mobile, desktop applications |
+| **Aug - Sep 2025** | **Mobile Dev Trainee** | ITI - Flutter, Firebase, cross-platform apps |
+| **2024 - 2025** | **Software Testing Intern** | Ministry of Communications - Selenium, QA |
+| **Education** | **B.Sc. Computers & Informatics** | Zagazig University (Expected 2027) |
+| | **Testing Diploma** | Ministry of Communications (2025) |
 
 <br/>
 
 ---
 
-## Get In Touch
+## Contact
 
 <p align="center">
-  <a href="mailto:moaaz.contact@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&ensp;
+  <a href="mailto:moaaz.contact@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&ensp;
   <a href="https://www.linkedin.com/in/moaaz-besher/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&ensp;
   <a href="https://moaazbesher.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <br/>
-
-<!-- FOOTER CAPSULE ANIMATION -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0B1120&height=100&section=footer&animation=fadeIn" alt="footer"/>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MoaazBesher&color=3B82F6&style=flat-square&label=PROFILE+VIEWS&base=0" alt="views"/>

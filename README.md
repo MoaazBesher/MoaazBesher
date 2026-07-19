@@ -1,6 +1,6 @@
 <!-- TYPING ANIMATION HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Moaaz+Besher+%E2%80%A2+Software+Developer;Building+Modern+Web+Applications;Developing+Cross-Platform+Mobile+Apps;Architecting+Desktop+Applications;Engineering+Quality+Software+Solutions" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Moaaz+Besher+%E2%80%A2+Software+Developer;Building+Modern+Web+Applications;Developing+Cross-Platform+Mobile+Apps;Architecting+Desktop+Applications;Engineering+Quality+Software+Solutions" alt="Moaaz Besher - Software Developer" />
 </p>
 
 <br/>
@@ -35,16 +35,16 @@ Computer and Informatics student at **Zagazig University** with practical experi
 
 <p align="center">
   <b>Languages & Core</b><br/>
-  <img src="https://skillicons.dev/icons?i=java,python,dart,cpp,js,sql&theme=dark" alt="languages"/>
+  <img src="https://skillicons.dev/icons?i=java,python,dart,cpp,js,sql&theme=dark" alt="Java, Python, Dart, C++, JavaScript, SQL"/>
   <br/><br/>
   <b>Frontend & Web</b><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,redux&theme=dark" alt="frontend"/>
+  <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,redux&theme=dark" alt="HTML, CSS, TypeScript, React, Next.js, Redux"/>
   <br/><br/>
   <b>Mobile & Backend</b><br/>
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,nodejs,express,sqlite&theme=dark" alt="backend"/>
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,nodejs,express,sqlite&theme=dark" alt="Flutter, Firebase, Node.js, Express, SQLite"/>
   <br/><br/>
   <b>Tools & QA</b><br/>
-  <img src="https://skillicons.dev/icons?i=git,selenium,electron,vscode,postman&theme=dark" alt="tools"/>
+  <img src="https://skillicons.dev/icons?i=git,selenium,electron,vscode,postman&theme=dark" alt="Git, Selenium, Electron, VSCode, Postman"/>
 </p>
 
 <br/>
@@ -112,29 +112,21 @@ Arabic RTL &bull; Smart search &bull; Data export/import &bull; Electron desktop
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoaazBesher&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&line_height=28" alt="stats" width="49%"/>
-  <img src="https://streak-stats.demolab.com/?user=MoaazBesher&theme=tokyonight&hide_border=true&mode=daily" alt="streak" width="49%"/>
+  <img src="https://img.shields.io/github/followers/MoaazBesher?style=flat-square&color=3B82F6&logo=github&logoColor=white&label=Followers" alt="Followers"/>&ensp;
+  <img src="https://img.shields.io/github/last-commit/MoaazBesher/MoaazBesher?style=flat-square&color=3B82F6&logo=github&logoColor=white&label=Last%20Commit" alt="Last Commit"/>&ensp;
+  <img src="https://img.shields.io/badge/Profile_Views-508-3B82F6?style=flat-square&logo=github&logoColor=white" alt="Views"/>&ensp;
+  <img src="https://img.shields.io/badge/Repositories-13-3B82F6?style=flat-square&logo=github&logoColor=white" alt="Repos"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoaazBesher&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="langs" width="45%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoaazBesher&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity" alt="graph" width="98%"/>
+  <img src="https://streak-stats.demolab.com/?user=MoaazBesher&theme=tokyonight&hide_border=true&mode=daily" alt="GitHub Streak" width="65%"/>
 </p>
 
 <br/>
 
 ---
 
-## Achievements & Certifications
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MoaazBesher&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4" alt="trophies" width="98%"/>
-</p>
-
-<br/>
+## Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/DEPI_Software_Testing-22C55E?style=flat-square&logo=google-cloud&logoColor=white"/>&ensp;
@@ -173,5 +165,5 @@ Arabic RTL &bull; Smart search &bull; Data export/import &bull; Electron desktop
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MoaazBesher&color=3B82F6&style=flat-square&label=PROFILE+VIEWS&base=0" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=MoaazBesher&color=3B82F6&style=flat-square&label=PROFILE+VIEWS&base=0" alt="Profile Views"/>
 </p>

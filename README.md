@@ -118,7 +118,7 @@ Arabic RTL experience &bull; Intelligent search &bull; Data export/import &bull;
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MoaazBesher&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&line_height=28" alt="stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoaazBesher&theme=tokyonight&hide_border=true&mode=daily" alt="streak" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=MoaazBesher&theme=tokyonight&hide_border=true&mode=daily" alt="streak" width="49%"/>
 </p>
 
 <p align="center">

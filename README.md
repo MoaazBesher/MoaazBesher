@@ -1,6 +1,6 @@
 <!-- TYPING ANIMATION HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Moaaz+Besher+%E2%80%A2+Software+Developer;Building+Modern+Web+Applications;Developing+Cross-Platform+Mobile+Apps;Architecting+Desktop+Applications;Engineering+Quality+Software+Solutions" alt="Moaaz Besher - Software Developer" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Quality+in+every+line;Moaaz+Besher+%E2%80%A2+Software+Developer;Building+Modern+Web+Applications;Developing+Cross-Platform+Mobile+Apps;Architecting+Desktop+Applications" alt="Moaaz Besher - Software Developer" />
 </p>
 
 <br/>
